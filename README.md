@@ -13,9 +13,7 @@
  **Unity Developer** specializing in interactive 3D and AR applications  
  **AR Foundation Expert** - Built mobile AR reconstruction of Roman Colosseum  
  **Web Developer** - Three.js, JavaScript, HTML/CSS for 3D web visualization  
- **MSc Computing with Digital Media** - University of Sussex (2:1)  
- **Based in Brighton, UK** - Right to work in the UK  
- **Currently:** UI/UX Designer at Devconst (Remote)
+
 
 ---
 
@@ -55,48 +53,7 @@
 
 ---
 
-##  Featured Projects
 
-###  AR Heritage Reconstruction (Dissertation Project)
-**Unity | C# | AR Foundation | Blender**
-- Developed mobile AR application to reconstruct the Roman Colosseum in 3D
-- Optimized 3D models and lighting for real-time rendering on mobile devices
-- Implemented spatial interaction using Canvas UI for player engagement
-
-###  3D Horror Game
-**Unity | C# | Post-Processing | AI Systems**
-- Created immersive horror environment with dynamic lighting and atmospheric effects
-- Implemented AI-driven enemy behavior using NavMesh and state machines
-- Designed UI elements (health indicators, interaction prompts) for enhanced player feedback
-
-###  3D Model Visualization for Web
-**Blender | Three.js | JavaScript | HTML/CSS**
-- Designed and optimized 3D models in Blender for web-based visualization
-- Integrated real-time web scene using Three.js with custom shaders
-- Improved performance through level-of-detail and texture optimization
-
----
-
-##  Education & Certifications
-
-**MSc Computing with Digital Media** - University of Sussex (2:1) | 2024-2025
-- Programming for 3D (73%)
-- Mobile 3D Applications (65%)
-- Human Computer Interaction (74%)
-
-**Certifications:**
--  Junior Programmer Pathway - Unity Learn
--  Creative Core Pathway - Unity Learn
-
----
-
-##  Languages
-
-- 🇬🇧 **English** - Fluent
-- 🇵🇰 **Urdu** - Native
-- 🇵🇰 **Punjabi** - Native
-
----
 
 ##  Connect with Me
 
