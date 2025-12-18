@@ -1,7 +1,7 @@
 ![Banner](./banner.svg)
 
 <h1 align="center">Hi, I'm Zohaib Rustam</h1>
-<h3 align="center">A Passionate Game, AR/VR & Web Developer from Pakistan</h3>
+<h3 align="center">Game Developer | AR/VR Specialist | Web Developer</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=zohaib-crypto&color=blueviolet&style=flat-square" alt="Profile views" />
@@ -9,13 +9,14 @@
 
 ---
 
-## 🚀 About Me
+##  About Me
 
-🎮 **Game Developer** specializing in Unity and immersive experiences  
-🕶️ **AR/VR Enthusiast** building next-gen interactive applications  
-🌐 **Full-Stack Developer** crafting web experiences with Three.js & React  
-🎓 **MSc Computing with Digital Media** - University of Sussex  
-💡 Currently exploring the intersection of gaming, XR, and web technologies
+ **Unity Developer** specializing in interactive 3D and AR applications  
+ **AR Foundation Expert** - Built mobile AR reconstruction of Roman Colosseum  
+ **Web Developer** - Three.js, JavaScript, HTML/CSS for 3D web visualization  
+ **MSc Computing with Digital Media** - University of Sussex (2:1)  
+ **Based in Brighton, UK** - Right to work in the UK  
+ **Currently:** UI/UX Designer at Devconst (Remote)
 
 ---
 
@@ -28,17 +29,21 @@
 
 ### AR/VR
 ![AR Foundation](https://img.shields.io/badge/AR_Foundation-000000?style=for-the-badge&logo=unity&logoColor=white)
-![Vuforia](https://img.shields.io/badge/Vuforia-0093D0?style=for-the-badge&logo=vuforia&logoColor=white)
+![Mobile AR](https://img.shields.io/badge/Mobile_AR-4285F4?style=for-the-badge&logo=google&logoColor=white)
 
 ### Web Development
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+### Design Tools
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Adobe XD](https://img.shields.io/badge/Adobe_XD-FF61F6?style=for-the-badge&logo=adobe-xd&logoColor=white)
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=zohaib-crypto&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" height="180"/>
@@ -51,22 +56,50 @@
 
 ---
 
-## 🎯 Featured Projects
+##  Featured Projects
 
-### 🎮 Game Projects
-- **[Project Name 1]** - Brief description of your game project
-- **[Project Name 2]** - Brief description of your game project
+###  AR Heritage Reconstruction (Dissertation Project)
+**Unity | C# | AR Foundation | Blender**
+- Developed mobile AR application to reconstruct the Roman Colosseum in 3D
+- Optimized 3D models and lighting for real-time rendering on mobile devices
+- Implemented spatial interaction using Canvas UI for player engagement
 
-### 🕶️ AR/VR Projects
-- **[AR App Name]** - Brief description of your AR/VR project
-- **[VR Experience]** - Brief description of your AR/VR project
+###  3D Horror Game
+**Unity | C# | Post-Processing | AI Systems**
+- Created immersive horror environment with dynamic lighting and atmospheric effects
+- Implemented AI-driven enemy behavior using NavMesh and state machines
+- Designed UI elements (health indicators, interaction prompts) for enhanced player feedback
 
-### 🌐 Web Projects
-- **[Web Project]** - Brief description of your web project
+###  3D Model Visualization for Web
+**Blender | Three.js | JavaScript | HTML/CSS**
+- Designed and optimized 3D models in Blender for web-based visualization
+- Integrated real-time web scene using Three.js with custom shaders
+- Improved performance through level-of-detail and texture optimization
 
 ---
 
-## 🤝 Connect with Me
+##  Education & Certifications
+
+**MSc Computing with Digital Media** - University of Sussex (2:1) | 2024-2025
+- Programming for 3D (73%)
+- Mobile 3D Applications (65%)
+- Human Computer Interaction (74%)
+
+**Certifications:**
+-  Junior Programmer Pathway - Unity Learn
+-  Creative Core Pathway - Unity Learn
+
+---
+
+##  Languages
+
+- 🇬🇧 **English** - Fluent
+- 🇵🇰 **Urdu** - Native
+- 🇵🇰 **Punjabi** - Native
+
+---
+
+##  Connect with Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/zohaibrustam/">
@@ -75,13 +108,17 @@
   <a href="mailto:zohaibbrustamm@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <a href="https://your-portfolio.com">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio"/>
+  <a href="https://github.com/zohaib-crypto">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 </p>
 
 ---
 
 <p align="center">
-  <i>⚡ "Creating immersive experiences, one line of code at a time" ⚡</i>
+  <i>⚡ "Building immersive AR/VR experiences and interactive 3D applications" ⚡</i>
+</p>
+
+<p align="center">
+  📍 Brighton, UK | 🎮 Unity Developer | 🕶️ AR Foundation Specialist | 🌐 Three.js Enthusiast
 </p>
