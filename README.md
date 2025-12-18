@@ -1,7 +1,6 @@
 ![Banner](./banner.svg)
-
-<h1 align="center">Hi, I'm Zohaib Rustam</h1>
-<h3 align="center">Game Developer | AR/VR Specialist | Web Developer</h3>
+<h1 align="center">Hi, I'm Zohaib Rustam 👋</h1>
+<h3 align="center">Unity Developer & Game Developer | AR/VR | 3D Animation</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=zohaib-crypto&color=blueviolet&style=flat-square" alt="Profile views" />
